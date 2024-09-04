@@ -63,3 +63,15 @@
 -BMI: 0.49 - Kurtosis positif menunjukkan distribusi BMI dengan sedikit puncak di sekitar nilai tengah, cenderung lebih "peaked" dibandingkan distribusi normal.<br/>
 -Tingkat Aktivitas Fisik (PAL): -1.35 - Kurtosis negatif menunjukkan distribusi PAL yang datar, dengan sedikit puncak di sekitar nilai tengah.<br/>
 <h3>Korelasi Pada Dataset</h3>
+<img src="https://github.com/user-attachments/assets/321898e4-c2fa-4ecf-b350-61fee2daa457" widht=300/>
+<h3>Visualisasi Data</h3>
+<p> Histogram</p>
+<img src="https://github.com/user-attachments/assets/af461fe8-9335-4a7b-9e26-49170f10dc91" widht=300/>
+<p> Box Plot</p>
+<img src="https://github.com/user-attachments/assets/43be2960-36e6-4e3b-b6e8-52f3038fb3c7" widht=300/>
+<p> Scatter Plot</p>
+<img src="https://github.com/user-attachments/assets/25338df2-e1cf-4f22-8593-f1c4c5cf608d" widht=300/>
+<img src="https://github.com/user-attachments/assets/32a8dd09-6f7b-4202-8120-9d79a7f6b58d" widht=300/>
+<img src="https://github.com/user-attachments/assets/f0c26563-4569-4404-82ea-68ed22cda43c" widht=300/>
+<h2>Kesimpulan Data</h2>
+<p> Analisis statistik data menunjukkan bahwa rata-rata usia individu dalam dataset ini adalah sekitar 50 tahun dengan variasi yang signifikan, sedangkan tinggi badan rata-rata adalah 170 cm dan berat badan rata-rata sekitar 71 kg, keduanya juga menunjukkan variasi besar. Indeks Massa Tubuh (BMI) rata-rata adalah 24.89, yang masuk dalam kategori berat badan normal, dengan variasi yang cukup besar dan distribusi sedikit miring ke kanan. Tingkat Aktivitas Fisik (PAL) rata-rata adalah 2.53, menunjukkan aktivitas fisik yang cukup tinggi dengan variasi kecil. Distribusi usia, tinggi badan, dan berat badan hampir simetris, sementara distribusi BMI menunjukkan sedikit puncak di sekitar nilai tengah.</p>
