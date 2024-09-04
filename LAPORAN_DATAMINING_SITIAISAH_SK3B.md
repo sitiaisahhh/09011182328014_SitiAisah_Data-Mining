@@ -3,3 +3,6 @@
 <p>Eksplorasi data adalah proses awal dalam analisis data yang bertujuan untuk memahami struktur, pola, dan informasi yang terkandung dalam dataset. Proses ini mencakup pemeriksaan awal data untuk memastikan kualitasnya, seperti mendeteksi dan menangani nilai yang hilang atau kesalahan data, serta menggunakan statistik deskriptif untuk mendapatkan gambaran umum tentang distribusi dan karakteristik data. Selain itu, eksplorasi data melibatkan pembuatan visualisasi seperti histogram dan scatterplot untuk memvisualisasikan pola dan hubungan antar variabel, serta identifikasi pola, tren, dan anomali yang dapat memberikan wawasan awal. Analisis korelasi juga dilakukan untuk mengukur hubungan antara variabel. Langkah-langkah ini penting karena memberikan pemahaman mendalam tentang data, membantu memilih metode analisis yang tepat, dan mendukung keputusan berbasis data yang lebih baik.</p>
 <h3>1.1 Nama Dataset</h3>
 <p>Judul Dataset: Data Obesitas</p>
+<p>Link:</p>
+<h3>1.2 Deskripsi Dataset</h3>
+<p>pada deskripsi dataset dapat berupa numeric dan object</p>
