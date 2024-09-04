@@ -6,14 +6,14 @@
 <p>Obesity Data merupakan kumpulan informasi yang mencakup berbagai aspek terkait prevalensi, penyebab, dan dampak obesitas pada populasi tertentu. Data ini biasanya mencakup indikator seperti indeks massa tubuh (IMT), distribusi obesitas berdasarkan usia, jenis kelamin, dan wilayah geografis, serta faktor-faktor risiko seperti pola makan, aktivitas fisik, dan kondisi kesehatan lainnya. Data obesitas sering digunakan untuk menganalisis tren, mengidentifikasi kelompok berisiko tinggi, serta merancang dan mengevaluasi kebijakan kesehatan masyarakat yang bertujuan mengurangi tingkat obesitas.</p>
 <p>Link:</p>
 <h3>2. Deskripsi Dataset</h3>
-<p>1. Age : Usia pasien</p>
-<p>2. Gender : Jenis kelamin</p>
-<p>3. Height : Tinggu badan</p>
-<p>4. Weight : Berat Badan</p>
-<p>5. BMI : Body mass index atau indeks massa tubuh </p>
-<p>6. PhysicalActivityLevel: Tingkat aktivitas fisik</p>
-<p>7. ObesityCategory : Kategori obesitas</p>
-<p>8. Normal weight : Berat badan normal</p>
-<p>9. Overweight : Kelebihan berat badan</p>
-<p>9. Obese : Obesitas</p>
+<p>1. Age : Usia pasien.</p>
+<p>2. Gender : Jenis kelamin.</p>
+<p>3. Height : Tinggu badan.</p>
+<p>4. Weight : Berat Badan.</p>
+<p>5. BMI : Body mass index atau indeks massa tubuh. </p>
+<p>6. PhysicalActivityLevel: Tingkat aktivitas fisik.</p>
+<p>7. ObesityCategory : Kategori obesitas.</p>
+<p>8. Normal weight : Berat badan normal.</p>
+<p>9. Overweight : Kelebihan berat badan.</p>
+<p>9. Obese : Obesitas.</p>
 <h3>3. Identifikasi Dataset</h3>
